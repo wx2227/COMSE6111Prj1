@@ -1,0 +1,117 @@
+a.
+Member 1 
+Name: Wan Xu
+UNI: wx2227
+
+Member 2
+Name: Guancheng Ren
+UNI: gr2625
+
+b.
+queryExpansion.py
+proj1-stop.txt
+
+c.
+nltk and numpy are required to run our program (make sure they are the latest version).
+If you have the latest Anaconda environment installed, then you are all set.
+Else run:
+
+pip install numpy
+pip install nltk
+
+After that, make sure proj1-stop.txt and queryExpansion.py is under the same directory.
+Then run (make sure run with python 3.7 or above) with:
+
+python queryExpansion.py <google api key> <google engine id> <precision> <query>
+
+d.
+For external libraries, we used nltk for tokenization, lemmatization, and bigram calculation. And numpy for calculating the tf-idf and rocchio.
+
+This project is divided into 2 main components. 
+
+For the first part, we define a class named queryExpansion. This class is responsible for using the rocchio algorithm and bigram to expand the query. Several object variables keep track of the data that shared among functions. 
+—queryList—
+list of query words we currently use
+—relevant—
+list of documents that user labeled as “Y”
+—irrelevant—
+list of documents that user labeled as “N”
+—allDocs—
+list of all documents with file format as html
+—docsSet—
+set of all the words in the allDocs along with the words in the queryList
+—relcount—
+count of relevant documents
+—irrelcount—
+count of irrelevant documents
+
+In the query expansion process.
+First, we connect to the google search api to retrieve the results. (function retrieveResult())
+Then, we demonstrate those returned results to the user and let the user label those document as whether they are consistent with what the user want or not. (function resToUser())
+In the next step, we process those documents, categorize them into relevant documents and irrelevant documents and do some pre-processing, such as remove the stop words and punctuations, tokenize and lemmatize the documents. (function documentProcess())
+When it comes to query expansion, we combined the result of rocchio with bigram to select the top 2 new query words and append those into the queryList. (function newQuery())
+Repeat the first and second step, if the precision is beyond the target precision, terminate the query expansion process and return the final query. If not, continue to run the query expansion
+process.
+
+The second part is several independent functions responsible for calculating tf-idf appear in the rocchio algorithm.
+e.
+Preprocessing:
+Before sending the document to our algorithm we first did some clean up.
+	i. Tokenization
+	At first we tokenized all the documents into lists of tokens with nltk's wordnet tokenizer, removed punctuations, and lowercased all words.
+	This tokenizer did some automatic grammar clean up.
+	("He's a nice person!" -> ["he", "is", "a", "nice", "person"])
+	
+	ii. Stopwords removal
+	Then we removed all the stopwords using the list provided in by the link:
+	http://www.cs.columbia.edu/~gravano/cs6111/proj1-stop.txt
+	
+	iii. Lemmatization
+	Lastly we reduced all the words to their dictionary form using nltk's lemmatizer
+	("played" -> "play")
+	
+Query Expansion:
+The core idea of our query expansion algorithm consists of two parts, the rocchio scoring and bi-gram rescoring / query sorting.
+	i. Rocchio scoring (after the user has labeled all the documents)
+	We first calculated the tf-idf vectors of the original query, related documents, and non-related documents.
+	
+	Then using the rocchio algorithm proposed in:
+	https://en.wikipedia.org/wiki/Rocchio_algorithm
+	we calculated the modified query vector.
+	
+	At this point the modified query vector is a vector that maps a term to its corresponding tf-idf value. 
+	
+	ii. Bi-gram counting
+	We calculated the bi-gram features of all the documents and counted their occurrences
+	(from both relevant and non-relevant documents, if the bi-gram is from the non-relevant document, we decrement the count instead of increment)
+	
+	e.g. ("new", "york") -> 7, means the bi-gram new york occured 7 times in the documents
+	
+	iii. Rescoring rocchio with bi-gram counts
+	We first filtered out all the bi-grams with count <= 1.
+	Then for each term in the modified query vector, if that term is in the bi-gram list, we calculated a new score by multiply its 
+	corresponding if-idf value by the occurrence of that bi-gram. And if that term is in a bi-gram that also contains a term from 
+	the original query, we double its score. If that term does not occur in the bi-gram list, the score for that term is its if-idf.
+	
+	The idea is: if certain combination of words occured a lot in the relevant documents, then it's likely that the terms from that 
+	combination is related. And if that combination contains the words from the original query, then it's very likely that the 
+	other term in the combination is what the user intented.
+	
+	Lastly, we extracted two candidate terms with the highest score value.
+	
+	iv. Query sorting
+	The idea is that certain terms like names, places, addresses almost always occur in a certain order. (New York instead of York New)
+	Original tf-idf and rocchio does not perserve ordering, bi-gram can indicate which word occur after another word so we can use it 
+	to solve the precedence problem.
+	We first appended the two candidate terms to the original query list. Then we used the bi-grams from the previous step to sort it.
+	e.g Like in the bi-gram list we have [("new", "york") -> 7], and in the query list we have "york per se new". From the bi-gram we
+	know that "new" occurs before "york" so we can reorder the query to "per se new york"
+	
+f.
+API Key: AIzaSyAg_FedCkdEHFmYwRdkqS5Im2zeOjlrC4Y
+Engine ID: 011931726167723972512:orkup7yeals
+
+g.
+Notes on non-html files:
+If we encounter any non-html files we simply ignore it (doesn't add to neither the relevant or non-relevant). Same as the project description page.
+Have a nice day :D

@@ -1,0 +1,447 @@
+—per se— 1 iteration achieves precision 1 with final query tasting menu per se
+
+Result 1
+TITLE: Per Se | Thomas Keller Restaurant Group
+URL: https://www.thomaskeller.com/perseny
+SUMMARY: Per Se entrance. center. Macadamia nut dipped in chocolate. left. Mini meat filled 
+pastries. right. Per Se Salon. center. Fish and vegetables. right. Oysters and ...
+ RELEVANT (Y/N)? 
+y
+Result 2
+TITLE: Per se - Wikipedia
+URL: https://en.wikipedia.org/wiki/Per_se
+SUMMARY: Per se may refer to: per se, a Latin phrase meaning "by itself" or "in itself". Illegal 
+per se, the legal usage in criminal and antitrust law; Negligence per se, legal ...
+ RELEVANT (Y/N)? 
+n
+Result 3
+TITLE: Per Se
+URL: https://www.thomaskeller.com/new-york-new-york/per-se/todays-menus
+SUMMARY: Daily Menus Two tasting menus are offered daily: a nine-course chef's tasting 
+menu, as well as a nine-course vegetable tasting menu. No single ingredient is ...
+ RELEVANT (Y/N)? 
+y
+Result 4
+TITLE: Perse | Definition of Perse by Merriam-Webster
+URL: https://www.merriam-webster.com/dictionary/perse
+SUMMARY: Perse definition is - of a dark grayish blue resembling indigo. How to use perse in 
+a sentence. Did You Know?
+ RELEVANT (Y/N)? 
+n
+Result 5
+TITLE: per se - Dictionary Definition : Vocabulary.com
+URL: https://www.vocabulary.com/dictionary/per%20se
+SUMMARY: Per se is the phrase to use when you want to refer to a particular thing on its own. 
+It is not this Latin phrase, per se, that is important, but rather the concept it ...
+ RELEVANT (Y/N)? 
+n
+Result 6
+TITLE: At Thomas Keller's Per Se, Slips and Stumbles - The New York Times
+URL: https://www.nytimes.com/2016/01/13/dining/pete-wells-per-se-review.html
+SUMMARY: Jan 12, 2016 ... Such is Per Se's mystique that I briefly wondered if the failure to bring her a new 
+napkin could have been intentional. The restaurant's identity, to ...
+ RELEVANT (Y/N)? 
+y
+Result 7
+TITLE: Per Se - See 6159 Photos & 1649 Reviews - French - 10 Columbus ...
+URL: https://m.yelp.com/biz/per-se-new-york
+SUMMARY: 1649 reviews of Per Se "My husband took me to Per Se for my birthday dinner 
+and honestly, I was a little worried it wouldn't stand up to all the hype. But man ...
+ RELEVANT (Y/N)? 
+y
+Result 8
+TITLE: per se - Wiktionary
+URL: https://en.wiktionary.org/wiki/per_se
+SUMMARY: Some people say that a hangover is caused by impurities in the drink, not by the 
+alcohol per se. (chiefly in negative polarity environments) In a true or literal ...
+ RELEVANT (Y/N)? 
+n
+Result 9
+TITLE: Per se | Definition of Per se at Dictionary.com
+URL: https://www.dictionary.com/browse/per-se
+SUMMARY: Per se definition, by, of, for, or in itself; intrinsically: This candidate is not a pacifist 
+per se, but he is in favor of peaceful solutions when practicable. See more.
+ RELEVANT (Y/N)? 
+n
+Result 10
+TITLE: PER SE | meaning in the Cambridge English Dictionary
+URL: https://dictionary.cambridge.org/dictionary/english/per-se
+SUMMARY: 5 days ago ... There was not an explicit governance pact or peace settlement per se, which 
+resulted in recurring crises of governance throughout the 1990s.
+ RELEVANT (Y/N)? 
+n
+
+Expanded query: tasting menu per se
+
+Result 1
+TITLE: Per Se
+URL: https://www.thomaskeller.com/new-york-new-york/per-se/todays-menus
+SUMMARY: Two tasting menus are offered daily: a nine-course chef's tasting menu, as well 
+as a nine-course vegetable tasting menu. No single ingredient is ever repeated ...
+ RELEVANT (Y/N)? 
+y
+Result 2
+TITLE: The Per Se Experience: Saturday Afternoon Lunch in New York with ...
+URL: https://www.thewholeworldisaplayground.com/the-per-se-experience- saturday-afternoon-lunch-in-new-york-with-three-michelin-stars/
+SUMMARY: Jan 16, 2014 ... It's often described as one of the best restaurants in New York City and I was 
+expecting Per Se to blow my mind! We sampled a tasting menu ...
+ RELEVANT (Y/N)? 
+y
+Result 3
+TITLE: Per Se | Thomas Keller Restaurant Group
+URL: https://www.thomaskeller.com/perseny
+SUMMARY: Per Se entrance. center. Macadamia nut dipped in chocolate. left. Mini meat filled 
+pastries. right. Per Se Salon. center. Fish and vegetables. right. Oysters and ...
+ RELEVANT (Y/N)? 
+y
+Result 4
+TITLE: Per Se, New York City - Hell's Kitchen - Menu, Prices & Restaurant ...
+URL: https://www.tripadvisor.com/Restaurant_Review-g60763-d425628-Reviews- Per_Se-New_York_City_New_York.html
+SUMMARY: Apr 5, 2015 ... Per Se, New York City: See 1826 unbiased reviews of Per Se, rated 4.5 ... nine-
+course tasting menu and a nine-course vegetable tasting menu ...
+ RELEVANT (Y/N)? 
+y
+Result 5
+TITLE: The Vegetarian Tasting and Chef's Tasting at Per Se – NYC ...
+URL: https://www.donuts4dinner.com/.../the-vegetarian-tasting-and-chefs-tasting-at -per-se/
+SUMMARY: May 24, 2012 ... Per Se NYC Chef's Tasting Menu and Vegetarian Tasting Menu with Wine 
+Pairings and Non-. The setting was simply elegant as always, with ...
+ RELEVANT (Y/N)? 
+y
+Result 6
+TITLE: At Thomas Keller's Per Se, Slips and Stumbles - The New York Times
+URL: https://www.nytimes.com/2016/01/13/dining/pete-wells-per-se-review.html
+SUMMARY: Jan 12, 2016 ... Enough, also, to make the perception of Per Se as one of the country's ... limited 
+to a vegetable tasting or a chef's tasting menu with few options.
+ RELEVANT (Y/N)? 
+y
+Result 7
+TITLE: Per Se - See 6159 Photos & 1649 Reviews - French - 10 Columbus ...
+URL: https://m.yelp.com/biz/per-se-new-york
+SUMMARY: 1649 reviews of Per Se "My husband took me to Per Se for my birthday dinner 
+and ... The tasting menu was outstanding.... down to the tiniest details (butter, ...
+ RELEVANT (Y/N)? 
+y
+Result 8
+TITLE: Per Se and Eleven Madison Park Both Hike Their Prices in the New ...
+URL: https://ny.eater.com/2018/1/4/.../eleven-madison-park-per-se-price-hike-2018
+SUMMARY: Jan 4, 2018 ... Thomas Keller's Per Se, in turn, has pushed up its nine-course tasting menu by 
+$15 to $340, also service-included. All of the restaurant's ...
+ RELEVANT (Y/N)? 
+y
+Result 9
+TITLE: Michelin-starred New York restaurant Per Se offers millennials 50 ...
+URL: https://www.marketwatch.com/.../note-to-per-se-offering-under-30s-half- price-off-a-325-tasting-menu-makes-the-rest-of-us-feel-like-suckers-2017-...
+SUMMARY: Mar 11, 2017 ... A Per Se diner performing a millennial must: photographing food. ... (Per Se 
+typically charges $325 for its nine-course tasting menu, and drinks ...
+ RELEVANT (Y/N)? 
+y
+Result 10
+TITLE: Per Se and Eleven Madison Park Both Raise Prices of Tasting Menu ...
+URL: https://ny.eater.com/2019/1/7/.../eleven-madison-park-per-se-price-hike
+SUMMARY: Jan 7, 2019 ... While some of the world's prestige luxury brands cut prices on their signature 
+products — Apple and Tesla come to mind — eating out at New ...
+ RELEVANT (Y/N)? 
+y
+
+Final Expanded Query: tasting menu per se
+
+—brin— 1 iteration achieves precision 1 with final query sergey brin billionaire
+Result 1
+TITLE: worlds of David Brin
+URL: https://www.davidbrin.com/
+SUMMARY: The official website of best-selling science fiction writer and futurist DAVID BRIN.
+ RELEVANT (Y/N)? 
+n
+Result 2
+TITLE: Sergey Brin - Wikipedia
+URL: https://en.wikipedia.org/wiki/Sergey_Brin
+SUMMARY: Sergey Mikhaylovich Brin is an American computer scientist and Internet 
+entrepreneur. Together with Larry Page, he co-founded Google. Brin was the 
+president ...
+ RELEVANT (Y/N)? 
+y
+Result 3
+TITLE: brin - Wiktionary
+URL: https://en.wiktionary.org/wiki/brin
+SUMMARY: The imported definitions may be significantly out of date, and any more recent 
+senses may be completely missing. (See the entry for brin in Webster's Revised ...
+ RELEVANT (Y/N)? 
+n
+Result 4
+TITLE: Sergey Brin
+URL: https://www.forbes.com/profile/sergey-brin/
+SUMMARY: Sergey Brin stepped down as president of Alphabet, parent company of Google, 
+in December 2019 but remains a controller shareholder and a board member.
+ RELEVANT (Y/N)? 
+y
+Result 5
+TITLE: BRiN - The World's First 24/7 Business Advisor, Entrepreneur Coach ...
+URL: https://brin.ai/
+SUMMARY: Introducing BRiN - Your Personal Business Advisor. Download BRiN today & get 
+instant access to real-time support and hundreds of business education videos.
+ RELEVANT (Y/N)? 
+n
+Result 6
+TITLE: BRIN
+URL: https://www.postgresql.org/docs/9.5/brin-intro.html
+SUMMARY: Introduction. BRIN stands for Block Range Index. BRIN is designed for handling 
+very large tables in which certain columns have some natural correlation with ...
+ RELEVANT (Y/N)? 
+n
+Result 7
+TITLE: Bloomberg Billionaires Index - Sergey Brin
+URL: https://www.bloomberg.com/billionaires/profiles/sergey-brin/
+SUMMARY: Bloomberg Billionaires Index. View profiles for each of the world's 500 richest 
+people, see the biggest movers, and compare fortunes or track returns. ❮ # 7 
+Larry ...
+ RELEVANT (Y/N)? 
+y
+Result 8
+TITLE: Brin Drove Google to Pull Back in China - WSJ
+URL: https://www.wsj.com/.../ SB10001424052748704266504575141064259998090
+SUMMARY: Mar 24, 2010 ... Behind Google's decision to shutter its China-based search engine was co-
+founder Sergey Brin's change of heart about the compromises ...
+ RELEVANT (Y/N)? 
+y
+Result 9
+TITLE: Google co-founder Sergey Brin joins protest against immigration ...
+URL: https://www.theverge.com/2017/1/28/14428262/google-sergey-brin
+SUMMARY: Jan 28, 2017 ... Sergey Brin, Google co-founder and president of Alphabet, joined protesters at 
+San Francisco International Airport tonight as demonstrators ...
+ RELEVANT (Y/N)? 
+y
+Result 10
+TITLE: Sergey Brin - Education, Google & Wife - Biography
+URL: https://www.biography.com/business-figure/sergey-brin
+SUMMARY: Dec 4, 2019 ... Sergey Brin is a computer scientist who created Google with Larry Page, the two 
+becoming billionaires as Google developed into the world's ...
+ RELEVANT (Y/N)? 
+y
+
+Expanded query: sergey brin billionaire
+
+Result 1
+TITLE: Sergey Brin - Wikipedia
+URL: https://en.wikipedia.org/wiki/Sergey_Brin
+SUMMARY: Sergey Mikhaylovich Brin is an American computer scientist and Internet 
+entrepreneur. ... Sergey Brin cropped.jpg ... "Billionaire Aids Charity That Aided 
+Him".
+ RELEVANT (Y/N)? 
+y
+Result 2
+TITLE: Bloomberg Billionaires Index - Sergey Brin
+URL: https://www.bloomberg.com/billionaires/profiles/sergey-brin/
+SUMMARY: Bloomberg Billionaires Index. View profiles for each of the world's 500 richest 
+people ... 8 Sergey Brin $68.6B. Random fact: Invested in New Zealand 
+winemaker ...
+ RELEVANT (Y/N)? 
+y
+Result 3
+TITLE: Google's billionaire cofounders Sergey Brin and Larry Page ...
+URL: https://www.businessinsider.com/google-cofounders-sergey-brin-larry-page- surprise-phd-student-2019-12
+SUMMARY: Dec 9, 2019 ... Google's billionaire cofounders Sergey Brin and Larry Page dropped a surprise 
+visit on a Ph.D. student who sits in Page's old office at Stanford.
+ RELEVANT (Y/N)? 
+y
+Result 4
+TITLE: Sergey Brin
+URL: https://www.forbes.com/profile/sergey-brin/
+SUMMARY: Who backed this $330,000 effort? Today we learned it was Google billionaire 
+Sergey Brin. At a press conference this morning, two people will taste that burger.
+ RELEVANT (Y/N)? 
+y
+Result 5
+TITLE: Sergey Brin
+URL: https://www.nytimes.com/2009/10/25/us/25donate.html
+SUMMARY: Oct 25, 2009 ... Sergey Brin, the billionaire co-founder of Google, is giving $1 million to the 
+organization that helped his family escape anti-Semitism in the ...
+ RELEVANT (Y/N)? 
+y
+Result 6
+TITLE: Google billionaire Sergey Brin earns 'a few pennies and dollars ...
+URL: https://www.marketwatch.com/.../google-billionaire-sergey-brin-earns-a-few- pennies-and-dollars-mining-ethereum-2018-07-09
+SUMMARY: Jul 9, 2018 ... Alphabet's Google may ban advertisements for cryptos, but that isn't stopping 
+Sergey Brin, one of its founders, from making a few bucks by ...
+ RELEVANT (Y/N)? 
+y
+Result 7
+TITLE: Sergey Brin - Education, Google & Wife - Biography
+URL: https://www.biography.com/business-figure/sergey-brin
+SUMMARY: Dec 4, 2019 ... Sergey Brin is a computer scientist who created Google with Larry Page, the two 
+becoming billionaires as Google developed into the world's ...
+ RELEVANT (Y/N)? 
+y
+Result 8
+TITLE: Google co-founders and Silicon Valley billionaires try to live forever
+URL: https://www.cnbc.com/.../google-co-founders-and-silicon-valley-billionaires- try-to-live-forever.html
+SUMMARY: Mar 31, 2017 ... Google's co-founders and other Silicon Valley billionaires are trying to ... One 
+example is Google co-founder Sergey Brin, who emigrated from ...
+ RELEVANT (Y/N)? 
+y
+Result 9
+TITLE: Sergey Brin - Before They Were Billionaires - YouTube
+URL: https://www.youtube.com/watch?v=sUTs2qLKBLs
+SUMMARY: Jan 25, 2019 ... Sergey Brin - Before They Were Billionaires with Gerard Haran.. Don't forget to 
+click subscribe http://bit.ly/2aPEwD4 About Sergey Brin: Sergey ...
+ RELEVANT (Y/N)? 
+y
+Result 10
+TITLE: Google Speaks: Secrets of the World's Greatest Billionaire ...
+URL: https://www.amazon.com/Google-Speaks...Billionaire.../dp/047039854X
+SUMMARY: Google Speaks: Secrets of the World's Greatest Billionaire Entrepreneurs, Sergey 
+Brin and Larry Page [Janet Lowe] on Amazon.com. *FREE* shipping on ...
+ RELEVANT (Y/N)? 
+y
+
+Final Expanded Query: sergey brin billionaire
+
+—jaguar— 1 iteration achieve precision 1.0 with final query jaguar panthera onca
+Result 1
+TITLE: Jaguar Sedans, SUVs and Sports Cars - Official Site | Jaguar USA
+URL: https://www.jaguarusa.com/index.html
+SUMMARY: The official home of Jaguar USA. Explore our luxury sedans, SUVs and sports 
+cars. Build Your Own, Book a Test Drive or Find a Retailer near you.
+ RELEVANT (Y/N)? 
+n
+Result 2
+TITLE: Market Selector | Jaguar | View the site in your preferred language
+URL: https://www.jaguar.com/market-selector.html
+SUMMARY: Discover the different language sites we have to make browsing our vehicle 
+range's easier. We have over 100 different language options available. Learn 
+more.
+ RELEVANT (Y/N)? 
+n
+Result 3
+TITLE: Jaguar - Wikipedia
+URL: https://en.wikipedia.org/wiki/Jaguar
+SUMMARY: The jaguar (Panthera onca) is a large felid species and the only extant member 
+of the genus Panthera native to the Americas. The jaguar's present range ...
+ RELEVANT (Y/N)? 
+y
+Result 4
+TITLE: Jaguar: Luxury Saloons, Performance SUVs & Sports Cars
+URL: https://www.jaguar.com/index.html
+SUMMARY: The official website of Jaguar. Discover our range of vehicles from the XE, XF, XJ, 
+F-Type, F-PACE, E-PACE & our all-electric sports car I-PACE.
+ RELEVANT (Y/N)? 
+n
+Result 5
+TITLE: Jaguar Cars - Wikipedia
+URL: https://en.wikipedia.org/wiki/Jaguar_Cars
+SUMMARY: Jaguar is the luxury vehicle brand of Jaguar Land Rover, a British multinational 
+car manufacturer with its headquarters in Whitley, Coventry, England. Jaguar ...
+ RELEVANT (Y/N)? 
+n
+Result 6
+TITLE: Jaguar Communication: Fiber Optic - Internet, TV, phone - Business ...
+URL: https://www.jaguarcommunications.com/
+SUMMARY: Nov 26, 2019 ... We provide fiber optic solutions to connect our communities in MN, offering 
+residential and business network services at the speed of light.
+ RELEVANT (Y/N)? 
+n
+Result 7
+TITLE: Jaguar | National Geographic
+URL: https://www.nationalgeographic.com/animals/mammals/j/jaguar/
+SUMMARY: Jaguars are the largest of South America's big cats. They once roamed from the 
+southern tip of that continent north to the region surrounding the U.S.-Mexico ...
+ RELEVANT (Y/N)? 
+y
+Result 8
+TITLE: Jaguar (@jaguar) • Instagram photos and videos
+URL: https://www.instagram.com/jaguar/?hl=en
+SUMMARY: 11.3m Followers, 281 Following, 2948 Posts - See Instagram photos and videos 
+from Jaguar (@jaguar)
+ RELEVANT (Y/N)? 
+n
+Result 9
+TITLE: Jaguar - YouTube
+URL: https://www.youtube.com/channel/UCU3MVTYYP82UKA9I_WDpRGw
+SUMMARY: Since the first Jaguar car was produced in 1935 we have pushed the boundaries 
+of what is possible. We've always believed that a car is the closest thing you ...
+ RELEVANT (Y/N)? 
+n
+Result 10
+TITLE: Jaguar Mining Inc.: Home
+URL: https://www.jaguarmining.com/
+SUMMARY: Jaguar is a producing gold, development, and exploration company operating in 
+the Iron Quadrangle, a prolific greenstone belt located in Minas Gerais, Brazil.
+ RELEVANT (Y/N)? 
+n
+
+Expanded query: jaguar panthera onca
+
+Result 1
+TITLE: Jaguar - Wikipedia
+URL: https://en.wikipedia.org/wiki/Jaguar
+SUMMARY: The jaguar (Panthera onca) is a large felid species and the only extant member 
+of the genus Panthera native to the Americas. The jaguar's present range ...
+ RELEVANT (Y/N)? 
+y
+Result 2
+TITLE: Jaguar | National Geographic
+URL: https://www.nationalgeographic.com/animals/mammals/j/jaguar/
+SUMMARY: Scientific Name: Panthera onca. Type: Mammals ... Jaguars also eat larger 
+animals such as deer, peccaries, capybaras, and tapirs. They sometimes climb 
+trees ...
+ RELEVANT (Y/N)? 
+y
+Result 3
+TITLE: Panthera onca (Jaguar)
+URL: https://www.iucnredlist.org/species/15953/123791436
+SUMMARY: Jaguar. Panthera onca. Citation. Quigley, H., Foster, R., Petracca, L., Payan, E., 
+Salom, R. & Harmsen, B. 2017. Panthera onca (errata version published in 2018)
+ ...
+ RELEVANT (Y/N)? 
+y
+Result 4
+TITLE: jaguars (Panthera onca)
+URL: https://www.panthera.org/cms/sites/default/.../Panthera_FactSheets_Jaguar.pdf
+SUMMARY: During the 1960s and 1970s, the jaguar was heavily hunted for its fur; as many 
+as 18,000 jaguars were killed each year until 1973, when the Convention on the.
+ RELEVANT (Y/N)? 
+y
+Result 5
+TITLE: Population genetic structure and habitat connectivity for jaguar ...
+URL: https://bmcgenet.biomedcentral.com/articles/10.1186/s12863-019-0801-5
+SUMMARY: Dec 27, 2019 ... Connectivity among jaguar (Panthera onca) populations will ensure natural gene 
+flow and the long-term survival of the species throughout its ...
+ RELEVANT (Y/N)? 
+y
+Result 6
+TITLE: (Panthera onca).
+URL: https://www.ncbi.nlm.nih.gov/pubmed/25010076
+SUMMARY: Jul 10, 2014 ... The complete mitochondrial genome structure of the jaguar (Panthera onca). 
+Caragiulo A(1), Dougherty E(1)(2), Soto S(3), Rabinowitz S(1), ...
+ RELEVANT (Y/N)? 
+y
+Result 7
+TITLE: Panthera onca: INFORMATION - ADW
+URL: https://animaldiversity.org/accounts/Panthera_onca/
+SUMMARY: Jaguars are the largest cats in the Americas and the only representative of the 
+genus Panthera. Height at the shoulder may be up to 75 cm. Body length is 150 
+to ...
+ RELEVANT (Y/N)? 
+y
+Result 8
+TITLE: Tungiasis in a free-ranging jaguar (Panthera onca) population in ...
+URL: https://www.ncbi.nlm.nih.gov/pubmed/21863398
+SUMMARY: Parasitol Res. 2012 Mar;110(3):1311-4. doi: 10.1007/s00436-011-2625-8. Epub 
+2011 Aug 24. Tungiasis in a free-ranging jaguar (Panthera onca) population in ...
+ RELEVANT (Y/N)? 
+y
+Result 9
+TITLE: Spatial Ecology and Social Interactions of Jaguars (Panthera onca ...
+URL: https://academic.oup.com/jmammal/article/90/4/935/852277
+SUMMARY: Aug 14, 2009 ... Abstract. The Pantanal of Brazil is an important area for the conservation of 
+jaguars (Panthera oncd). As the size of traditional large ranches in ...
+ RELEVANT (Y/N)? 
+y
+Result 10
+TITLE: Prey Preferences of the Jaguar Panthera onca Reflect the ... - Frontiers
+URL: https://www.frontiersin.org/articles/10.3389/fevo.2015.00148/full
+SUMMARY: Jan 25, 2016 ... We used a comparative ecological approach to investigate whether the existing 
+prey preference patterns of jaguars Panthera onca were ...
+ RELEVANT (Y/N)? 
+y
+Final Expanded Query: jaguar panthera onca
