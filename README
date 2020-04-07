@@ -106,10 +106,6 @@ The core idea of our query expansion algorithm consists of two parts, the rocchi
 	We first appended the two candidate terms to the original query list. Then we used the bi-grams from the previous step to sort it.
 	e.g Like in the bi-gram list we have [("new", "york") -> 7], and in the query list we have "york per se new". From the bi-gram we
 	know that "new" occurs before "york" so we can reorder the query to "per se new york"
-	
-f.
-API Key: AIzaSyAg_FedCkdEHFmYwRdkqS5Im2zeOjlrC4Y
-Engine ID: 011931726167723972512:orkup7yeals
 
 g.
 Notes on non-html files:
